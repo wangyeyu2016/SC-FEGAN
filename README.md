@@ -1,3 +1,4 @@
+## SC-FEGAN：基于 GAN 的人脸照片涂鸦编辑！
 # SC-FEGAN
 SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color
 
